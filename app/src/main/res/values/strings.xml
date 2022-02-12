@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DBFirstApp</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="app_user">Add user</string>
+    <string name="delete">Delete all</string>
+</resources>
